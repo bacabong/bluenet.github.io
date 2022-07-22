@@ -1,2 +1,2 @@
-# bluenet.github.io
+# bluenet.vn
 Bluenet info
